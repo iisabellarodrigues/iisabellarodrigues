@@ -1,6 +1,6 @@
 # Olá 👋 Tudo bem?
 
-Meu nome é **Isabella Rodrigues**, sou uma entusiasta de tecnologia apaixonada por aprendizado contínuo e pelo desenvolvimento de soluções digitais. Moro em São Paulo, Brasil, e estou sempre em busca de novas oportunidades para evoluir minhas habilidades e aplicar meus conhecimentos em projetos que gerem impacto positivo.
+Meu nome é Isabella Rodrigues, sou estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas e uma entusiasta de tecnologia apaixonada por aprendizado contínuo e pelo desenvolvimento de soluções digitais. Moro em São Paulo, Brasil, e estou em busca de uma oportunidade de estágio na área de tecnologia, onde possa aprimorar minhas habilidades e aplicar meus conhecimentos em projetos que gerem impacto positivo
 
 ## Sobre mim
 - Apaixonada por tecnologia e aprendizado contínuo
