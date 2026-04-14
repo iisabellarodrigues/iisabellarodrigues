@@ -2,19 +2,19 @@
 
 Meu nome é **Isabella Rodrigues**, sou uma entusiasta de tecnologia apaixonada por aprendizado contínuo e pelo desenvolvimento de soluções digitais. Moro em São Paulo, Brasil, e estou sempre em busca de novas oportunidades para evoluir minhas habilidades e aplicar meus conhecimentos em projetos que gerem impacto positivo.
 
-## 👩‍💻 Sobre mim
-- 🌟 Apaixonada por tecnologia e aprendizado contínuo
-- 📚 Atualmente desenvolvendo minhas habilidades em **Python**, **HTML**, **CSS** e **JavaScript**
-- 💼 Experiência com o **Pacote Office**:
+## Sobre mim
+- Apaixonada por tecnologia e aprendizado contínuo
+- Atualmente desenvolvendo minhas habilidades em **Python**, **HTML**, **CSS** e **JavaScript**
+- Experiência com o **Pacote Office**:
   - **Word**: elaboração e formatação de documentos
   - **Excel**: criação de planilhas, uso de fórmulas e gráficos
   - **PowerPoint**: desenvolvimento de apresentações profissionais
-- 🎨 Experiência com **Canva** para criação de conteúdos visuais e materiais gráficos
-- 🎯 Interessada em **Desenvolvimento Web**, **Inteligência Artificial** e **Banco de Dados**
-- 🤝 Perfil organizado, comunicativo e com facilidade para trabalhar em equipe
-- 🎲 Curiosidade: adoro animais de estimação 🐶
+- Experiência com **Canva** para criação de conteúdos visuais e materiais gráficos
+- Interessada em **Desenvolvimento Web**, **Inteligência Artificial** e **Banco de Dados**
+- Perfil organizado, comunicativo e com facilidade para trabalhar em equipe
+- Curiosidade: adoro animais de estimação 🐶
 
-## 🚀 Atualmente estou desenvolvendo minhas habilidades em
+## Atualmente estou desenvolvendo minhas habilidades em
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -23,14 +23,23 @@ Meu nome é **Isabella Rodrigues**, sou uma entusiasta de tecnologia apaixonada 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-## 🎨 Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 <p align="left">
+  <!-- Canva -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" alt="Pacote Office" width="40" height="40"/>
+  
+  <!-- Microsoft Word -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" alt="Microsoft Word" width="40" height="40"/>
+  
+  <!-- Microsoft Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Microsoft Excel" width="40" height="40"/>
+  
+  <!-- Microsoft PowerPoint -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" alt="Microsoft PowerPoint" width="40" height="40"/>
 </p>
 
-## 📫 Como entrar em contato comigo
+## Como entrar em contato comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/isabella-r-a774753b3/" target="_blank">
