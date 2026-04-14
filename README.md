@@ -12,7 +12,6 @@ Meu nome é **Isabella Rodrigues**, sou uma entusiasta de tecnologia apaixonada 
 - Experiência com **Canva** para criação de conteúdos visuais e materiais gráficos
 - Interessada em **Desenvolvimento Web**, **Inteligência Artificial** e **Banco de Dados**
 - Perfil organizado, comunicativo e com facilidade para trabalhar em equipe
-- Curiosidade: adoro animais de estimação 🐶
 
 ## Atualmente estou desenvolvendo minhas habilidades em
 
