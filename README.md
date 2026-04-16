@@ -1,9 +1,8 @@
 # Olá 👋 Tudo bem?
 
-Meu nome é Isabella Rodrigues, sou estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas e uma entusiasta de tecnologia apaixonada por aprendizado contínuo e pelo desenvolvimento de soluções digitais. Moro em São Paulo, Brasil, e estou em busca de uma oportunidade de estágio na área de tecnologia, onde possa aprimorar minhas habilidades e aplicar meus conhecimentos em projetos que gerem impacto positivo
+Meu nome é Isabella Rodrigues, sou estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e movida pelo aprendizado contínuo. Moro em São Paulo e estou em busca de uma oportunidade de estágio na área de tecnologia, onde eu possa colocar meus conhecimentos em prática, desenvolver minhas habilidades em ambientes reais e contribuir com soluções digitais que gerem impacto positivo.
 
 ## Sobre mim
-- Apaixonada por tecnologia e aprendizado contínuo
 - Atualmente desenvolvendo minhas habilidades em **Python**, **HTML**, **CSS** e **JavaScript**
 - Experiência com o **Pacote Office**:
   - **Word**: elaboração e formatação de documentos
